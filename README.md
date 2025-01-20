@@ -26,5 +26,4 @@ Vous pouvez tester l'API en naviguant vers `http://localhost:5136/swagger`
 
 La vidéo ci-dessous montre l'utilisation de tous les endpoints via l'interface Swagger :
 
-<video src="video_tests_swagger.webm" controls title="Démonstration des endpoints">
-</video>
+[Cliquez ici pour voir la démonstration vidéo](https://sharing.clickup.com/clip/p/t14108913/307401fd-9037-4855-acbe-a91c4ee40807/screen-recording-2025-01-20-09%3A23.webm)
